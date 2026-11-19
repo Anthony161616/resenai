@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pandas
+pysentimiento
+python-dotenv
+psycopg2-binary
+bcrypt
